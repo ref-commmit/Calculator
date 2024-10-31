@@ -1,0 +1,25 @@
+.calculator {
+
+    border: 5px solid rgb(214, 28, 28);
+    width: 200px;
+    border-radius: 4px;
+
+
+
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 5rem;
+    background: #F2F2F8;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #010101;
+    background: conic-gradient(from 225deg, rgba(1, 1, 1, 0.5), rgba(255, 255, 245, 0.5));
+
+    color: black;
+}
+
+* {
+    background: #F2F2F8;
+    background: linear-gradient(135deg, #F2F2F8, #CDCEBA);
+}
